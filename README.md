@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 impress.js
 ============
 
@@ -107,3 +108,8 @@ LICENSE
 
 Copyright 2011 Bartek Szopka. Released under MIT License.
 
+=======
+## Fuchsjagd Presentation
+
+This presentation has been made with impress.js
+>>>>>>> 91dba4fa5a5e932d92c32516e8bf96516ad14b49
