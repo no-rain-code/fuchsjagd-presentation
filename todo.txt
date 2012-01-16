@@ -1,0 +1,7 @@
+fuchsjagd
+frontend
+    evaluation
+    probleme
+backend
+    technologie und hosting
+    
