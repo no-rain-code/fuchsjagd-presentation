@@ -42,7 +42,7 @@ body {
     line-height: 1;
 }
 ol, ul {
-    list-style: none;
+/*    list-style: none;*/
 }
 blockquote, q {
     quotes: none;
@@ -144,7 +144,16 @@ h1 {
     -o-transform:      translateZ(50px);
     transform:         translateZ(50px);
 }
-           
+
+h2 {
+    font-size: 80px;
+    
+    -webkit-transform: translateZ(50px);
+    -moz-transform:    translateZ(50px);
+    -ms-transform:     translateZ(50px);
+    -o-transform:      translateZ(50px);
+    transform:         translateZ(50px);
+}           
 
 /* overview step */
 
