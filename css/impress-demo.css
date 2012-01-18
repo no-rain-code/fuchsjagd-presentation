@@ -126,7 +126,7 @@ a:hover {
 }
 
 .step:not(.active) {
-    opacity: 0.3;
+    opacity: 0.2;
 }
 
 /* STEP SPECIFIC STYLES */
@@ -138,22 +138,22 @@ a:hover {
 h1 {
     font-size: 120px;
     
-    -webkit-transform: translateZ(50px);
+/*    -webkit-transform: translateZ(50px);
     -moz-transform:    translateZ(50px);
     -ms-transform:     translateZ(50px);
     -o-transform:      translateZ(50px);
     transform:         translateZ(50px);
-}
+*/}
 
 h2 {
     font-size: 80px;
     
-    -webkit-transform: translateZ(50px);
+/*    -webkit-transform: translateZ(50px);
     -moz-transform:    translateZ(50px);
     -ms-transform:     translateZ(50px);
     -o-transform:      translateZ(50px);
     transform:         translateZ(50px);
-}           
+*/}           
 
 /* overview step */
 
@@ -168,14 +168,6 @@ h2 {
     opacity: 1;
     cursor: pointer;
 }
-
-/*
- * SLIDE STEP STYLES
- *
- * inspired by: http://html5slides.googlecode.com/svn/trunk/styles.css
- *
- * ;)
- */
 
 
 
